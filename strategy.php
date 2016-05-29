@@ -10,7 +10,6 @@ interface Logger{
     public function log($data);
 }
 
-
 // Define a family of algorithm
 
 class LogToFile implements Logger{
@@ -41,14 +40,12 @@ class LogToXWebService implements Logger{
 
 
 class App {
-
-    public function log($data, Logger $logger = null){
-
+    public function log($data, Logger $logger = null)
+    {
         $logger = $logger ? : new LogToFile();
         $logger->log($data);
     }
 }
-
 
 $app = new App();
 

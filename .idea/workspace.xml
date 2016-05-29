@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="strategy.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strategy.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/strategy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1105">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.57726467" vertical-offset="491" max-vertical-offset="1054">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="e#7#177#0#PHP" expanded="true" />
               </folding>
@@ -37,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="decorator.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="decorator.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decorator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36589697" vertical-offset="491" max-vertical-offset="1054">
+            <state vertical-scroll-proportion="-7.923077" vertical-offset="491" max-vertical-offset="1054">
               <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
               <folding />
             </state>
@@ -62,8 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/Singleton2.php" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/strategy.php" />
         <option value="$PROJECT_DIR$/decorator.php" />
+        <option value="$PROJECT_DIR$/strategy.php" />
       </list>
     </option>
   </component>
@@ -244,21 +244,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy.php">
+    <entry file="file://$PROJECT_DIR$/decorator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1105">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#177#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-7.923077" vertical-offset="491" max-vertical-offset="1054">
+          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/decorator.php">
+    <entry file="file://$PROJECT_DIR$/strategy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36589697" vertical-offset="491" max-vertical-offset="1054">
-          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
-          <folding />
+        <state vertical-scroll-proportion="0.57726467" vertical-offset="491" max-vertical-offset="1054">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#177#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
