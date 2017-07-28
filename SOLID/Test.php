@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Nahidul Hasan
- * Date: 09-Jul-17
- * Time: 8:45 PM
+ * Testing git flow hotfix
  */
 
 class Singleton {
