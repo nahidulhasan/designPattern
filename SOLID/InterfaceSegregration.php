@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Nahidul Hasan
- * Date: 11-Jul-17
- * Time: 8:56 AM
+ *  A client should never be forced to implement an interface that it doesn’t use
  */
 
 /*interface workerInterface{
